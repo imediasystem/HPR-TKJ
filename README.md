@@ -12,3 +12,7 @@ See the live version of [HPR-TKJ](https://imediasystem.github.io/hpr-tkj/) ↗�
 ## 💿 Installation
 Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 &nbsp;
+
+## 🔗 See also
+Are you interested in? See my other projects and visit my website [Krzysztof Graca](https://krzysztofgraca.pl/) ↗️
+&nbsp;
