@@ -14,5 +14,5 @@ Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 &nbsp;
 
 ## 🔗 See also
-Are you interested in? See my other projects and visit my website [Krzysztof Graca](https://krzysztofgraca.pl/) ↗️
+Are you interested in? See my other projects and visit my website [iMedia SysteM](https://imediasystem.pl/) ↗️
 &nbsp;
