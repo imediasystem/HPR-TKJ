@@ -4,8 +4,6 @@
 
 [![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/hpr-tkj/)
 
-See the live version of [HPR-TKJ](https://imediasystem.github.io/hpr-tkj/) ↗️
-
 Elevate your NDT business in the digital world with a site built on a modern stack: HTML5, CSS3, JavaScript, and Bootstrap. We guarantee a professional, responsive design perfectly adapted for mobile devices, and blazing-fast performance, which is crucial for capturing clients seeking specialized services. Contact us today, and we will create a website that effectively converts visitors into your valuable customers.
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
