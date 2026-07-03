@@ -2,7 +2,7 @@
 
 ## 🔥 Project Name - HPR-TKJ
 
-[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/AutoService/)
+[![View Demo](https://img.shields.io/badge/LIVE_DEMO-Visit_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://imediasystem.github.io/hpr-tkj/)
 
 See the live version of [HPR-TKJ](https://imediasystem.github.io/hpr-tkj/) ↗️
 
