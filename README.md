@@ -6,6 +6,12 @@
 
 Elevate your NDT business in the digital world with a site built on a modern stack: HTML5, CSS3, JavaScript and Bootstrap. We guarantee a professional, responsive design perfectly adapted for mobile devices, and blazing-fast performance, which is crucial for capturing clients seeking specialized services. Contact us today, and we will create a website that effectively converts visitors into your valuable customers.
 
+## 📚 Key Features
+* **Fully Responsive Design** – Looks great on mobile, tablet, and desktop.
+* **Video-Centric Layout** – Optimized for high-quality video backgrounds and portfolios.
+* **Performance Optimized** – Fast loading times for a seamless user experience.
+&nbsp;
+
 ## 🛠 Technologies / Frameworks / Platforms / Libraries
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
